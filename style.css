@@ -349,7 +349,6 @@ nav.menu {
   bottom: 4vw; /* responsivo no mobile */
   right: 4vw;
   z-index: 1600;
-  background-color: transparent;
   width: clamp(80px, 20vw, 110px);
   height: clamp(80px, 20vw, 110px);
   background-image: url("../img/whatsapp-icon.png");
