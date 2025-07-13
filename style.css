@@ -351,7 +351,7 @@ nav.menu {
   z-index: 1600;
   width: clamp(80px, 20vw, 110px);
   height: clamp(80px, 20vw, 110px);
-  background-image: url("../img/whatsapp-icon.png");
+  background-image: url("img/whatsapp-icon.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 80%;
